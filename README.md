@@ -4,4 +4,6 @@ Inteligência Artificial, feita em C++, que visa enviar email apenas usando coma
 
 OBS: atente-se que: Nas partes que contém o método Mouse::Set(x,y); é necessário adaptar. Isso acontece, pelo fato dessas coordenadas variavem dependendo do tamanho do monitor. Ou seja, para cada resolução, a posição não irá coincidir com o desejado.
 
+OBS2: ao usar a API, verifique-se de que o arquivo .nupkg da Microsoft está incluído no diretório que foi baixado os serviços, juntamente com o arquivo de signature.
+
 ASSISTA AO VÍDEO PARA SABER COMO FUNCIONA NA PRÁTICA: https://www.youtube.com/watch?v=eigULbnTp0I&ab_channel=PedroCaillaux
