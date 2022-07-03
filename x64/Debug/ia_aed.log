@@ -1,0 +1,3 @@
+﻿  ia_aed.cpp
+C:\Users\Pedro\Desktop\iaaed\ia_aed.cpp(39,9): warning C4101: 'i': variável local não referenciada
+  ia_aed.vcxproj -> C:\Users\Pedro\Desktop\iaaed\x64\Debug\ia_aed.exe
