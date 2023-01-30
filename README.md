@@ -7,3 +7,5 @@ OBS: atente-se que: Nas partes que contém o método Mouse::Set(x,y); é necess�
 OBS2: Certifique-se de baixar a API da Microsoft e configurar corretamente na IDE que estiver sendo usada.
 
 ASSISTA AO VÍDEO PARA SABER COMO FUNCIONA NA PRÁTICA: https://www.youtube.com/watch?v=eigULbnTp0I&ab_channel=PedroCaillaux
+
+O principal objetivo desse projeto, é auxiliar pessoas cegas a mandarem emails, sem precisar de nenhum tipo de ajuda humana.
