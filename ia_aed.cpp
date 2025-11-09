@@ -14,7 +14,7 @@ ROBOT_NS_USE_ALL;
 using namespace std;
 using namespace Microsoft::CognitiveServices::Speech;
 using namespace Microsoft::CognitiveServices::Speech::Audio;
-auto autenticacao = SpeechConfig::FromSubscription("bfa38ec54083465ca650497528698ddf", "brazilsouth");
+auto autenticacao = SpeechConfig::FromSubscription("MY_KEY", "brazilsouth");
 auto requisicao_textofala = SpeechSynthesizer::FromConfig(autenticacao);
 auto mic_config = AudioConfig::FromDefaultMicrophoneInput();
 auto requisicao_falatexto = SpeechRecognizer::FromConfig(autenticacao, mic_config);
@@ -281,5 +281,6 @@ int main()
     
     
 }
+
 
 
